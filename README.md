@@ -52,9 +52,9 @@ The effect on RAG response quality, where maintaining coherent context improves 
 
 🧰 Technologies Used
 
-Python 3.9+
+Python
 
-Sentence Transformers / OpenAI embeddings for semantic analysis
+Sentence Transformers Mini Embeddings
 
 NumPy, Pandas for data handling
 
