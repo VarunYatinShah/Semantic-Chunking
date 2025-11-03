@@ -16,7 +16,7 @@ How semantic chunking differs from normal chunking in chunk size and length dist
 
 How it impacts retrieval quality (i.e., how well chunks match user queries)
 
-How it influences RAG answer quality, by maintaining more coherent context windows for large language models
+How it influences RAG answer quality or does it remain the same.
 
 ⚙️ Implementation
 
@@ -48,7 +48,7 @@ The differences in chunk characteristics between semantic and normal chunking
 
 The impact on retrieval relevance within a vector-based search system
 
-The effect on RAG response quality, where maintaining coherent context improves answer precision
+The effect on RAG response quality or not.
 
 🧰 Technologies Used
 
